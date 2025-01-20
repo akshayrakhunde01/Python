@@ -1,5 +1,5 @@
 
 string = "racecar"
-reversr=''.join(reversed(str))
+reversr=''.join(reversed(string))
 
 print(string==reversr)
