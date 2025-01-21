@@ -9,4 +9,5 @@ information={
     }
 }
 
-print(information["subject"])
+# print(information["subject"])
+print(information.keys())
