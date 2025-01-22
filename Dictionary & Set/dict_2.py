@@ -9,5 +9,7 @@ information={
     }
 }
 
+information.update({"city":"Pune","count":20})
 # print(information["subject"])
-print(information.keys())
+# print(information.keys())
+print(information)
