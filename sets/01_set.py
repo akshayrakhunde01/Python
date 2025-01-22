@@ -5,9 +5,11 @@
 # set are mutable
 
 colletction =set()
-# set.add(ele) add elemet 
+colletction.add('ele') #add elemet 
 #  set.remove(ele ) # remove element
 # set.clear # empties the set
 
 # set.pop # remove the elemnt
+
+print(len(colletction))
  
