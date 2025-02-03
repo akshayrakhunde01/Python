@@ -9,3 +9,11 @@ else:
 
 for i in range(5):  # 0 to 4
     print(i)
+
+
+try:
+    x = 10 / 0
+except ZeroDivisionError:
+    print("You can't divide by zero!")
+finally:
+    print("This will always run.")
